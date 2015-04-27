@@ -10,5 +10,4 @@ Polska lokalizacja [io.js](https://iojs.org).
 
 ## Zespół
 
-- Maciej Winnicki ([@mthenw](https://github.com/mthenw))
 - Michał Olczak ([@m1halo](https://github.com/m1halo))
